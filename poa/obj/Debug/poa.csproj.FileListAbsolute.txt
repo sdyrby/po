@@ -1,0 +1,11 @@
+C:\Udvikling\po\poa\poa\bin\Debug\poa.exe.config
+C:\Udvikling\po\poa\poa\bin\Debug\poa.exe
+C:\Udvikling\po\poa\poa\bin\Debug\poa.pdb
+C:\Udvikling\po\poa\poa\obj\Debug\poa.csprojAssemblyReference.cache
+C:\Udvikling\po\poa\poa\obj\Debug\poa.csproj.ResolveComReference.cache
+C:\Udvikling\po\poa\poa\obj\Debug\poa.Form1.resources
+C:\Udvikling\po\poa\poa\obj\Debug\poa.Properties.Resources.resources
+C:\Udvikling\po\poa\poa\obj\Debug\poa.csproj.GenerateResource.cache
+C:\Udvikling\po\poa\poa\obj\Debug\poa.csproj.CoreCompileInputs.cache
+C:\Udvikling\po\poa\poa\obj\Debug\poa.exe
+C:\Udvikling\po\poa\poa\obj\Debug\poa.pdb
